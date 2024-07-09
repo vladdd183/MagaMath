@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4508e5ba59087cef",
+        "id": "b51af26a8c9809ef",
         "type": "tabs",
         "children": [
           {
-            "id": "74fdbcb8806bd8df",
+            "id": "e45a1ae385b011fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Решения/ВАРИАНТ № 101-19/4 (101-19) (Шилопунш).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Решения/ВАРИАНТ № 101-19/4 (101-19) (Шилопунш).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Решения/ВАРИАНТ № 101-19/4 (101-19) (Шилопунш).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Решения/ВАРИАНТ № 101-19/4 (101-19) (Шилопунш).md"
+              }
             }
           }
         ]
@@ -130,16 +138,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "74fdbcb8806bd8df",
+  "active": "e45a1ae385b011fe",
   "lastOpenFiles": [
+    "Варианты/ВАРИАНТ № 101-19.md",
     "Решения/ВАРИАНТ № 101-19/4 (101-19) (Шилопунш).md",
     "Варианты/ВАРИАНТ № 301-19.md",
     "Решения/README.md",
@@ -153,7 +162,6 @@
     "Решения/ВАРИАНТ № 101-19/Вложения/Pasted image 20240709202859.png",
     "Решения/ВАРИАНТ № 101-19/Вложения/Pasted image 20240709202519.png",
     "Решения/ВАРИАНТ № 101-19/Вложения/Pasted image 20240709202325.png",
-    "Варианты/ВАРИАНТ № 101-19.md",
     "Материалы/101-19.pdf",
     "Решения/ВАРИАНТ № 101-19/Вложения",
     "README.md",

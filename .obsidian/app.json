@@ -1,3 +1,6 @@
 {
-  "attachmentFolderPath": "./Вложения"
+  "attachmentFolderPath": "./Вложения",
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }
